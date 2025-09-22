@@ -1,6 +1,6 @@
 # ConsoleCalculator
 # Java Console Calculator
-
+NAME : MURALA AYYAPPA
 ## Project Overview
 
 This is a simple **Java Console Calculator** that performs basic arithmetic operations:
@@ -63,5 +63,6 @@ The calculator takes user input through the console using the **Scanner** class 
 * Using loops for continuous execution
 * Error handling (e.g., divide-by-zero)
 
-
+OUTPUT : 
+<img width="1477" height="758" alt="Image" src="https://github.com/user-attachments/assets/b3614934-1803-417f-bef7-c320428776bc" />
 
